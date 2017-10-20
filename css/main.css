@@ -1,0 +1,44 @@
+body{
+  font-family: sans-serif;
+}
+header h1{
+  margin-bottom: 3px;
+font-family: 'Lora', serif;
+font-weight: normal;
+}
+header hr{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.biography{
+  width: 60%;
+  display: inline-block;
+  font-size: 14px;
+   line-height: 1.8;
+   font-style: sans-serif;
+}
+
+.sumary{
+  display: inline-block;
+  vertical-align: top;
+}
+.sumary-table{
+  border: 1px solid rgb(162, 169);
+  background-color: rgb(248, 249, 250);
+  padding: 1px;
+font-size: 14px;
+
+}
+.sumary-table thead th{
+  background-color: #B0C4DE;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 16px;
+}
+.sumary-table tbody tr:first-child{
+  text-align: center;
+}
+.sumary-table tbody th{
+  text-align: left;
+
+}
